@@ -1,0 +1,1 @@
+<h1>Testing svelte publishing</h1>
